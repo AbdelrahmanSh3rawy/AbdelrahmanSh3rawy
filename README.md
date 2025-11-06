@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Abdelrahman El-Sharawy 👋</h1>
-<h3 align="center">AI Developer | Machine Learning Engineer | Data Enthusiast</h3>
+<h3 align="center">AI Developer | Machine Learning Engineer | Data Scientist</h3>
 
 ---
 
