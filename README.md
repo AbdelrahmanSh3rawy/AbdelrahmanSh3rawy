@@ -46,8 +46,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelrahman-ElSharawy&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=Abdelrahman-ElSharawy&theme=dracula&no-frame=false&margin-w=8" height="150" alt="GitHub trophies" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AbdelrahmanSh3rawy&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanSh3rawy&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app?username=AbdelrahmanSh3rawy&theme=dracula&no-frame=false&margin-w=8" height="150" alt="GitHub trophies" />
+
 </div>
 
 ---
